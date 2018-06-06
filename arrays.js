@@ -11,6 +11,6 @@ function addElementToBeginningOfArray() {
 
 }
 function destructivelyAddElementToBeginningOfArray() {
-  var array1 = ["Bannanas"]
-  array1 = ["apples", ...array1]
+  var array1 = ["1"]
+  array1 = ["foo", ...array1]
 }
